@@ -1,0 +1,7 @@
+{
+  "name": "Magic Selfie Studio",
+  "description": "An AI-powered application that creates realistic selfies in exotic locations by combining portrait references with generative scene backgrounds, focusing on preserving identity and features.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
